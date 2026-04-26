@@ -15,10 +15,10 @@ A RESTful CRUD service for student registration, built with **Java**, **Spring B
 
 ## Features
 
-- 📋 **Full CRUD** — Create, Read, Update, Delete operations for student records
-- 🗄️ **MySQL integration** — entity-repository pattern with JPA
-- 🏗️ **Clean architecture** — Controller → Service → Repository layering
-- ⚡ **Lombok** — clean entity and DTO definitions
+- **Full CRUD** — Create, Read, Update, Delete operations for student records
+- **MySQL integration** — entity-repository pattern with JPA
+- **Clean architecture** — Controller → Service → Repository layering
+- **Lombok** — clean entity and DTO definitions
 
 ## Project Structure
 
